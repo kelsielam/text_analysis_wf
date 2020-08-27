@@ -14,6 +14,6 @@ The sort.py script will take "wc.txt" as input and sort the word by count in des
 plot.py:
 The plot.py script will plot a graph with the frequency of the top 25 most used words.
 
-[alam test](https://www.yahoo.com)
+
 
 
