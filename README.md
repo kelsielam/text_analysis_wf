@@ -1,6 +1,8 @@
 # Text Analysis Workflow
 This workflow is able to count the number of occurance of each word in a Harry Potter book
 
+![alt text](Workflow diagrams.jpg)
+
 ## Usages:
 
 wc.py:
