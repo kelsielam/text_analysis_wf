@@ -1,7 +1,7 @@
 # Text Analysis Workflow
 This workflow is able to count the number of occurance of each word in a Harry Potter book
 
-##Usages:
+## Usages:
 
 wc.py:
 The wc.py script will parse the file "hp.txt" (Harry Potter book), count the number of occurance of each word, then output the statistic summary in the "wc.txt"
